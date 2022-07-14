@@ -1,3 +1,15 @@
-hola mundo
-palabras del zoo paper
-
+Protovis
+Index Chart
+stream graphs
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+quantile-quantile 
+Q-Q plots
+SPLOM
+brushing-and-linking
+Parallel coordinates
+flow map 
+Reingold-Tilford algorithm
+dendrogram 
+Force-Directed Layout
